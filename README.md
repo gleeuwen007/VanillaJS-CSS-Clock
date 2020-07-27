@@ -1,2 +1,2 @@
-# VanillaJS-CSS_Clock
+# VanillaJS-CSS-Clock
 CSS Clock built with JavaScript
